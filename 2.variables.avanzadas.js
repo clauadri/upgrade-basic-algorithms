@@ -47,3 +47,5 @@ car2.finalPrice = (70000 + globalBasePrice);
 
 console.log(car1);
 console.log(car2);
+
+
